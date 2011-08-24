@@ -16,6 +16,7 @@ public class Person {
 
 	public Person() {
 		name = "unknown name";
+		String boss = "thomas was here";
 		maximumBooks = 3; 
 	}
 
