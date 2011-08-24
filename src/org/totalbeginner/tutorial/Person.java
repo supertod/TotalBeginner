@@ -16,7 +16,7 @@ public class Person {
 
 	public Person() {
 		name = "unknown name";
-		String boss = "thomas was here";
+		String boss = "thomas was here2";
 		maximumBooks = 3; 
 	}
 
